@@ -1,4 +1,4 @@
-module github.com/confluentinc/confluent-kafka-go/v2
+module github.com/alexandredantas/confluent-kafka-go/v2
 
 go 1.16
 
